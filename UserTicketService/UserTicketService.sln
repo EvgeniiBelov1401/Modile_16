@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserTicketService", "UserTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService.Tests", "UserTicketService.Tests\UserTicketService.Tests.csproj", "{C0C77C38-F6E6-49B6-A85F-E78E98E62FC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit1", "TestXUnit1\TestXUnit1.csproj", "{767B3778-BC2D-4B33-A7A2-D73780C22C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit1.Tests", "TestXUnit1.Tests\TestXUnit1.Tests.csproj", "{C8889BA4-1696-469E-97D9-DAF8DB84B6D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C0C77C38-F6E6-49B6-A85F-E78E98E62FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C77C38-F6E6-49B6-A85F-E78E98E62FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C77C38-F6E6-49B6-A85F-E78E98E62FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767B3778-BC2D-4B33-A7A2-D73780C22C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767B3778-BC2D-4B33-A7A2-D73780C22C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767B3778-BC2D-4B33-A7A2-D73780C22C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767B3778-BC2D-4B33-A7A2-D73780C22C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8889BA4-1696-469E-97D9-DAF8DB84B6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8889BA4-1696-469E-97D9-DAF8DB84B6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8889BA4-1696-469E-97D9-DAF8DB84B6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8889BA4-1696-469E-97D9-DAF8DB84B6D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
